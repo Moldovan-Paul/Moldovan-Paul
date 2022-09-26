@@ -10,9 +10,9 @@
 </div>
 
 ### About me
-* 🎓Second-year Computer Science student at Babes-Bolyai University of Cluj-Napoca
-* 💻Passionate about software development and technology
-* 📫Feel free to contact me via email at paulmoldo78@gmail.com
+* 🎓 Second-year Computer Science student at Babes-Bolyai University of Cluj-Napoca
+* 💻 Passionate about software development and technology
+* 📫 Feel free to contact me via email at paulmoldo78@gmail.com
 
 
 ### Projects
