@@ -14,6 +14,11 @@
 * 💻 Passionate about software development and technology
 * 📫 Feel free to contact me via email at paulmoldo78@gmail.com
 
+<img width="60" heigth="60" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /><img width="60" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img width="60" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /><img width="60" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img width="60" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+
+
+
 
 ### Projects
 
