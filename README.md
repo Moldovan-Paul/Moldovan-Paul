@@ -14,11 +14,7 @@
 * 💻 Passionate about software development and technology
 * 📫 Feel free to contact me via email at paulmoldo78@gmail.com
 
-<img width="60" heigth="60" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /><img width="60" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img width="60" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /><img width="60" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img width="60" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-
-
-
+<img width="60" heigth="60" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" /><img width="60" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /><img width="60" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /><img width="60" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img width="60" heigth="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img width="60" heigth="60">
 
 ### Projects
 
@@ -29,6 +25,10 @@
 [Obstruction Minigame](https://github.com/Moldovan-Paul/Obstruction-Minigame) - console-based application that allows the user to play a game of Obstruction against the computer
 
 [Movie Rental Service](https://github.com/Moldovan-Paul/Movie-Rental-Service) - console-based desktop application that allows its user to manage movie rental services
+
+
+<img width="1000" src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif" />
+
 
 <!--
 Here are some ideas to get you started:
