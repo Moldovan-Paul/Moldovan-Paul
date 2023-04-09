@@ -23,13 +23,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.s
 
 [TravelWise](https://github.com/Moldovan-Paul/TravelWise) - iOS application that allows travelers to gather information regarding flights and accommodation available around the globe
 
+[Hospital Organizer](https://github.com/Moldovan-Paul/Hospital-Organizer) - a simple RESTful API that allows users to manage entities related to hospitals
+
 [Watch List Manager](https://github.com/Moldovan-Paul/Watch-List-Manager) - GUI-based desktop application that allows its user to create a local repository containing information about YouTube videos and create a watch list from it
 
 [Obstruction Minigame](https://github.com/Moldovan-Paul/Obstruction-Minigame) - console-based application that allows the user to play a game of Obstruction against the computer
 
 [Movie Rental Service](https://github.com/Moldovan-Paul/Movie-Rental-Service) - console-based desktop application that allows its user to manage movie rental services
-
-[Hospital Organizer](https://github.com/Moldovan-Paul/Hospital-Organizer) - a simple RESTful API that allows users to manage entities related to hospitals
 
 <img width="1000" src="https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif" />
 
